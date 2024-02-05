@@ -10,6 +10,7 @@ Extra Small (Size < 576px) and Small (Size >= 576px):
 
 Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px):
 
+![Uploading image.png…]()
 
 
 Instructions:
