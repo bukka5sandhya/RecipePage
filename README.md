@@ -10,7 +10,7 @@ Extra Small (Size < 576px) and Small (Size >= 576px):
 
 Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px):
 
-![Uploading image.png…]()
+![image](https://github.com/bukka5sandhya/RecipePage/assets/133884532/cdf2920e-b94e-4f3c-8b6a-e6dda850ce2e)
 
 
 Instructions:
